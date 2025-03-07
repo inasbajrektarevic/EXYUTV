@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Iptv.Subscriber": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
