@@ -15,6 +15,7 @@ Prilikom pokretanja mobilne aplikacije, OBAVEZNO pokrenuti komandu .\setup_env.b
 Stripe:
 
 STRIPE_SECRET = sk_test_51QviG8R9Lklfo9BXspDysklL8hUaQuBLoKEQZXnQNGBKl66GubzPlpKrIIEZRiVKuYpNEBA9Va82emIILD2mZmNc00uT9sP798
+
 STRIPE_PUBLISHABLE_KEY = pk_test_51QviG8R9Lklfo9BXpB2zx5xdWAf25TLzII7xyaLcJOTdk5Pk3LHoAUwPQs2RO7eiZ0iu1XhVAFblMptvHFr38Kzr00aLOzBlOW
 
 Podaci za Stripe plaćanje:
